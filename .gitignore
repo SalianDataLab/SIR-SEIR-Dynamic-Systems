@@ -1,0 +1,9 @@
+__pycache__/
+assets/
+notebook_etape_1_systemes_dynamiques_sir_seir.md
+"Notebook Etape1 Systemes Dynamiques Sir Seir.pdf"
+.gemini/
+.agents/
+.agent/
+*.pyc
+.ipynb_checkpoints/
